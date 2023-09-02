@@ -1,0 +1,4 @@
+import random
+print("Rolling Dice....... ")
+dice = random.randint(1,6)
+print("Here your Roll: ",dice)
